@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    text-transform: uppercase;   
+}
+
+.input {
+    border-radius: .7rem;
+    margin-left: .3rem;
+    width: auto;
+    padding: .5rem;
+    margin: .8rem 0;
+}
